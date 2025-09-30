@@ -1,0 +1,12 @@
+## Requirements
+
+- Python 3.x
+- numpy
+- pandas
+- scikit-learn
+- nltk
+- streamlit
+- tqdm
+- colorama
+- joblib
+- regex
